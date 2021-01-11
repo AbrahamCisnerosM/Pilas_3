@@ -133,7 +133,7 @@ public class PILAS_3 {
         
         else
     {
-        System.out.print("\n\nNO PUEDO MOSTRAR PILAS VACIAS HUMANO...");
+        System.out.print("\n\nNO PUEDO MOSTRAR PILAS");
     }
     }
    
@@ -166,7 +166,7 @@ public class PILAS_3 {
      }
      else
      {
-         System.out.print("NO PUEDO UNIR PILAS VACIAS HUMANO...");
+         System.out.print("NO PUEDO UNIR PILAS");
      }
         
        
@@ -190,7 +190,7 @@ public class PILAS_3 {
         
         else
         {
-            System.out.print("TUS PILAS A Y B ESTAN VACIAS POR LO TANTO NO PUEDO MOSTRAR TU PILA C...");
+            System.out.print("NO PUEDO MOSTRAR TU PILA ...");
         }
 
         
